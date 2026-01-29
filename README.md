@@ -1,4 +1,4 @@
-# LSU_SSL_TDA_PUBLIC
+# LSU_DEXA_PREDICTION_MODELS_PUBLIC
 
 Code repository for "Predicting Anthropometric Body Composition Variables Using 3D Optical Imaging and Machine Learning" by Agrahari et al., published in *Frontiers in Bioinformatics*.
 
